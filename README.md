@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Júnior Carriel 
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python para analise de dados
 - 📫 How to reach me: https://www.linkedin.com/in/junior-carriel-0aa1a8122?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - https://www.instagram.com/carriel_junior/profilecard/?igsh=dTZtd3FudHBzaGoz
 - 😄 Pronouns: Ele/dele
